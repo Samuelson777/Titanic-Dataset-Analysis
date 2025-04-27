@@ -44,3 +44,6 @@ This project demonstrates the process of exploratory data analysis using the Tit
 
 - Kaggle for providing the Titanic dataset.
 - The data science community for their resources and tutorials that helped in completing this project.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Titanic-Dataset-Analysis/blob/main/LICENSE) file for details.
